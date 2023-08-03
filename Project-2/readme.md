@@ -22,7 +22,9 @@ This is the second project using HTML and CSS. I've learnt a plethora of new thi
 - Animated buttons using Pseudo-classes
 - Dropdown menu
 
-The contact in the top right in the navigation bar leads us to the html page [contact-us.html](https://github.com/Prathi20/HTML-CSS/blob/main/Project-2/contact-s.html) where contact details are given and queries can be mailed. 
+The contact in the top right in the navigation bar leads us to the html page [contact-us.html](https://github.com/Prathi20/HTML-CSS/blob/main/Project-2/contact-us.html) where contact details are given and queries can be mailed. 
 Clicking on the logo on the contact-us.html page leads back to the [homepage](https://github.com/Prathi20/HTML-CSS/blob/main/Project-2/contact-s.html)
 
 `Book Online` button leads us to [test.html](https://github.com/Prathi20/HTML-CSS/blob/main/Project-2/test.html). No speaicl features here except acting as a webpage where the button should lead to for presentation purposes.
+
+The [css-reset.css](https://github.com/Prathi20/HTML-CSS/blob/main/Project-2/css-reset.css) page contains the eric meyers styling to follow a normalized styling in our webpages.
