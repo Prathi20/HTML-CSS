@@ -1,6 +1,6 @@
 # HTML-CSS
 
-The first set of Projects I've done using HTML AND CSS scripting languages
+The first set of Projects I've done using scripting languages HTML and CSS
 
 ## Author
 
